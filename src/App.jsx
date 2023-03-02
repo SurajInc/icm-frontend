@@ -1,12 +1,9 @@
-import NavBar from "./components/Navbar/NavBar";
-import SideBar from "./components/SideBar/SideBar";
-
+import Layout from "./components/Layout/Layout";
 function App() {
   return (
    <>
     
-    <NavBar/>
-    <SideBar/>
+    <Layout/>
 
    </>
   );

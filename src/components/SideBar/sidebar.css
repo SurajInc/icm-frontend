@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.icon{
+    width: 26px;
+    height: 36px;
+}
+.title{
+    font-size:14px ;
+    color:#3B30C8;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1
+}
+.sidebar-container{
+    padding-left: 8px;
+    text-align: center;
+   
+    height: 94.3vh;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.tab-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8px;
+  
+    
+}
+.tab-container:hover{
+    background-color: #EAE9FF;
+    border-radius: 10px;
+}
