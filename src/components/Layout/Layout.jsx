@@ -16,10 +16,10 @@ const Layout = () => {
       {/* sidebar */}
       <section>
         <Grid container spacing={1}>
-          <Grid item xs={1} >
+          <Grid item style={{width: "100px"}}>
             <SideBar />
           </Grid>
-          <Grid item xs={11}><RouteList/></Grid>
+          <Grid item xs><RouteList/></Grid>
         </Grid>
       </section>
     </>
