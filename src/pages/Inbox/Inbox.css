@@ -1,0 +1,31 @@
+.wrap-cont {
+    box-sizing: border-box;
+}
+.addReq {
+    box-sizing: border-box;
+    width: 170px;
+    height: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    background: #AFBEEE;
+    border: 0.5px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* @media screen and (max-width:649px){
+    .wrap-cont {
+        position: absolute;
+    }
+
+} */
+
